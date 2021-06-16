@@ -19,6 +19,7 @@ public class Hello {
 
     System.out.println(emp1);
     System.out.println(emp2);
+    System.out.println("Hello");
 	}
 
 }
